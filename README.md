@@ -1,3 +1,2 @@
 This is a Repo where Things go in & around
-Technical
-,Lo
+Technical,Logical
